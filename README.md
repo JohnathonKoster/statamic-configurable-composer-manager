@@ -2,6 +2,8 @@
 
 The Configurable Composer Manager for Statamic addon allows you to make configuration changes to the Composer executable that Statamic internally uses to manage addon updates (or to even use your own version of Composer).
 
+If you can't get Statamic to refresh your addons when developing on a Windows system - you're in the right place.
+
 ## Installation
 
 Copy the `ConfigurableComposerManager` folder into your `site/addons` folder. That should be all you have to do!
