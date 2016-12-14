@@ -34,7 +34,7 @@ You will notice that the default `COMPOSER_HOME` value starts with the `@` symbo
 
 ## Changing the Composer Executable
 
-On certain systems it might be useful to change the Composer executable that is used. This can be done by modifying the `composer` configuration item:
+On certain systems it might be useful to change the Composer executable that is used. This can be done by modifying the `composer` configuration entry:
 
 ```yaml
 "composer": "composer.phar"
