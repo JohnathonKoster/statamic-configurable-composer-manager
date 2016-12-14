@@ -1,0 +1,4 @@
+"composer": "composer.phar"
+environment-variables:
+  "COMPOSER_HOME": "@composer"
+  "APPDATA": "@composer"

@@ -1,0 +1,5 @@
+name: Configurable Composer Manager
+version: 1.0
+description: Allows developers to configure the internal Composer manager.
+developer: Johnathon Koster
+developer:url: http://www.stillat.com/
