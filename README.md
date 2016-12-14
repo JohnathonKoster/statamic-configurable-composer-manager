@@ -40,7 +40,7 @@ On certain systems it might be useful to change the Composer executable that is 
 "composer": "composer.phar"
 ```
 
-By default it is set to `composer.phar`, which will instruct the addon to use the Composer executable that ships with Statamic. Generally you shouldn't have to modify this, but if you do simply set this value to the full path to the Composer executable you want to use.
+By default the `composer` entry is set to `composer.phar`, which will instruct the addon to use the Composer executable that ships with Statamic. Generally you shouldn't have to modify this, but if you do simply set this value to the full path to the Composer executable you want to use.
 
 A good example of when to change this is on a Windows system with a system-wide installation of Composer and the bundled Composer exectable begins throwing network connection errors.
 
